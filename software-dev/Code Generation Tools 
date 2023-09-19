@@ -1,0 +1,9 @@
+# Code Generation Tools
+
+### Reason to Use
+
+Enlisting ChatGPT's assistance in automating code generation tools can significantly improve a developer's productivity and speed up the development process. ChatGPT can suggest the most appropriate code templates, frameworks, and libraries based on the developer's requirements, reducing the time spent on manual coding. This also ensures code consistency and reduces the likelihood of errors in the final product.
+
+### Prompt Template
+
+I am working on developing a [project_name] using [programming_language]. I am in need of a [code_generation_tool] that can assist me in automating the coding process. The tool should provide [number_of_templates] different templates that are suitable for [project_requirement]. Additionally, it should suggest the most appropriate [framework_library] for the project. Can you suggest a code generation tool that meets these requirements?
